@@ -42,10 +42,10 @@ const pages = resolvePageToggles({
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "Firefly",
+	title: "布鲁斯的个人博客",
 
 	// 站点副标题
-	subtitle: "Demo site",
+	subtitle: "欢迎来到蓝调旅馆，进来歇歇？",
 
 	// 站点 URL
 	site_url: "https://firefly.cuteleaf.cn",
@@ -117,7 +117,7 @@ export const siteConfig: SiteConfig = {
 			alt: "🍀",
 		},
 		// 导航栏标题
-		title: "Firefly Blog",
+		title: "布鲁斯的个人博客",
 		// 全宽导航栏，导航栏是否占满屏幕宽度
 		widthFull: false,
 		// 导航菜单对齐方式，left：左对齐，center：居中
@@ -262,7 +262,7 @@ export const siteConfig: SiteConfig = {
 	// ── Bilibili配置 ──────────────────────────────────
 	bilibili: {
 		// 你的 Bilibili 用户 UID
-		uid: "38932988",
+		uid: "448311740",
 	},
 
 	// ── 番组计划bangumi配置 ──────────────────────────────────

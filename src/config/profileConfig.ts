@@ -9,10 +9,10 @@ export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/avatar.avif",
 
 	// 名字
-	name: "XiaYe",
+	name: "布鲁斯",
 
 	// 个人签名
-	bio: "Hello, I'm XiaYe.",
+	bio: "Hello, I'm 布鲁斯.",
 
 	// 链接配置
 	// 已经预装的图标集：fa7-brands，fa7-regular，fa7-solid，material-symbols，simple-icons
@@ -24,7 +24,13 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "GitHub",
 			icon: "fa7-brands:github",
-			url: "https://github.com/CuteLeaf",
+			url: "https://github.com/ImLazyBlueS",
+			showName: false,
+		},
+		{
+			name: "Bilibili",
+			icon: "fa7-brands:bilibili",
+			url: "https://space.bilibili.com/448311740?spm_id_from=333.1007.0.0",
 			showName: false,
 		},
 		{
